@@ -26,6 +26,8 @@
         footer {
             color: white;
             background-color: black;
+            height: 70px;
+            margin-bottom: 0;
         }
 
         h2 {
